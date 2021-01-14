@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Pos & Inventory Software",
+      "details": "lorem ipsum ela",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Boost LMS",
+      "details": "Hello I'm Boost LMS Update",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
